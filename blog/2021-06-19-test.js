@@ -1,13 +1,3 @@
----
-slug: test
-title: Test
-authors:
-  name: FraV1982
-  title: FraV1982s how-to guides
-  url: https://github.com/FrankVan1982
-tags: [hola, docusaurus]
----
-
 import React, { useState } from 'react';
 
 /**
